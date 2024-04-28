@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "Abnoan.Generics\\obj": true,
+    "Abnoan.Generics\\bin": true
+  }
+}

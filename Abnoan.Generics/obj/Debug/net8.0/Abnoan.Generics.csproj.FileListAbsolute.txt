@@ -1,0 +1,14 @@
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\bin\Debug\net8.0\Abnoan.Generics.exe
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\bin\Debug\net8.0\Abnoan.Generics.deps.json
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\bin\Debug\net8.0\Abnoan.Generics.runtimeconfig.json
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\bin\Debug\net8.0\Abnoan.Generics.dll
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\bin\Debug\net8.0\Abnoan.Generics.pdb
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\Abnoan.Generics.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\Abnoan.Generics.AssemblyInfoInputs.cache
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\Abnoan.Generics.AssemblyInfo.cs
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\Abnoan.Generics.csproj.CoreCompileInputs.cache
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\Abnoan.Generics.dll
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\refint\Abnoan.Generics.dll
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\Abnoan.Generics.pdb
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\Abnoan.Generics.genruntimeconfig.cache
+c:\Users\abnoa\Abnoan.Generics\Abnoan.Generics\obj\Debug\net8.0\ref\Abnoan.Generics.dll
